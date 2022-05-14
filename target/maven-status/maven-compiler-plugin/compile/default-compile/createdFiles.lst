@@ -1,3 +1,4 @@
-br/unicamp/ic/inf335/beans/ProdutoBean.class
-br/unicamp/ic/inf335/beans/AnuncianteBean.class
-br/unicamp/ic/inf335/beans/AnuncioBean.class
+org/trabalho/test/trabalho_test/App.class
+org/trabalho/test/trabalho_test/AnuncianteBean.class
+org/trabalho/test/trabalho_test/AnuncioBean.class
+org/trabalho/test/trabalho_test/ProdutoBean.class

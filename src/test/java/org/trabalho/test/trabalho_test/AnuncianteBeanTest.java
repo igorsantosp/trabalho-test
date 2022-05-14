@@ -1,6 +1,10 @@
 package org.trabalho.test.trabalho_test;
 
-import org.junit.jupiter.api.BeforeAll;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import java.util.ArrayList;
+
+import org.junit.jupiter.api.*;
 
 class AnuncianteBeanTest {
     static  AnuncianteBean anuncianteBean;
